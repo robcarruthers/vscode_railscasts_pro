@@ -5,6 +5,14 @@ All notable changes to the "railscasts-pro" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 - - -
+## [0.0.7](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.6..0.0.7) - 2023-07-02
+#### Miscellaneous Tasks
+- Refinements - ([5e6940b](https://github.com/robcarruthers/vscode_railscasts_pro/commit/5e6940bdc3ee28bc3fe4ca8f141df82b5afb5976)) - [@robcarruthers](https://github.com/robcarruthers)
+- Fix LICENSE typo - ([d29d975](https://github.com/robcarruthers/vscode_railscasts_pro/commit/d29d975751b6454c2f9a19232e65168347ee9631)) - [@robcarruthers](https://github.com/robcarruthers)
+- Add licence file - ([7021caf](https://github.com/robcarruthers/vscode_railscasts_pro/commit/7021cafe6dd69150caca050c183b5f643828a14c)) - [@robcarruthers](https://github.com/robcarruthers)
+
+- - -
+
 ## [0.0.6](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.5..0.0.6) - 2023-07-02
 #### Miscellaneous Tasks
 - refinements - ([ba45716](https://github.com/robcarruthers/vscode_railscasts_pro/commit/ba45716c8612093c1f394582d694cc8ed17375e6)) - [@robcarruthers](https://github.com/robcarruthers)
