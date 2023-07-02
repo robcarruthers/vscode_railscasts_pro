@@ -7,10 +7,20 @@ pre_package_bump_hooks = []
 post_package_bump_hooks = []
 
 [commit_types]
+hotfix = { changelog_title = "Hotfixes" }
+release = { changelog_title = "Releases" }
+task = { changelog_title = "Miscellaneous Tasks" }
+chore = { changelog_title = "Miscellaneous Tasks" }
 
 [changelog]
 path = "CHANGELOG.md"
-authors = []
+template = "remote"
+remote = "github.com"
+repository = "vscode_railscasts_pro"
+owner = "robcarruthers"
+authors = [
+  { signature = "Rob Carruthers", username = "robcarruthers" }
+]
 
 [bump_profiles]
 
