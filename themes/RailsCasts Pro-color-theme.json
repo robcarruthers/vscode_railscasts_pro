@@ -49,7 +49,7 @@
       "scope": "entity.name.type.class",
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#f9d0fe"
+        "foreground": "#e68484"
       }
     },
     {
@@ -62,17 +62,17 @@
     },
     {
       "name": "Variable",
-      "scope": ["variable.language", "variable.other"],
+      "scope": ["variable.other.readwrite"],
       "settings": {
         "fontStyle": "",
-        "foreground": "#D0D0FF"
+        "foreground": "#ccccfa"
       }
     },
     {
       "name": "Block Parameter",
-      "scope": "variable.other.block",
+      "scope": ["variable.other.block", "variable.other.readwrite.instance.ruby", "variable.other.ruby"],
       "settings": {
-        "foreground": "#d0d0ff"
+        "foreground": "#ccccfa"
       }
     },
     {
