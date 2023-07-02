@@ -1,0 +1,21 @@
+{
+  "name": "railscasts-pro",
+  "displayName": "railscasts_pro",
+  "description": "A dark UI theme based on the original Textmate RailsCasts Theme.",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "RailsCasts Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/RailsCasts Pro-color-theme.json"
+      }
+    ]
+  }
+}
