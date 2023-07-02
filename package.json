@@ -1,8 +1,8 @@
 {
   "name": "railscasts-pro",
-  "displayName": "railscasts_pro",
+  "displayName": "Railscasts Pro",
   "description": "A dark UI theme based on the original Textmate RailsCasts Theme.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "icon.jpeg",
   "publisher": "codeMuster",
   "repository": {

@@ -80,7 +80,7 @@
       "scope": "constant",
       "settings": {
         "fontStyle": "",
-        "foreground": "#6D9CBE"
+        "foreground": "#4dadc5"
       }
     },
     {
@@ -95,7 +95,7 @@
       "scope": "constant.language",
       "settings": {
         "fontStyle": "",
-        "foreground": "#6E9CBE"
+        "foreground": "#4dadc5"
       }
     },
     {
@@ -118,7 +118,7 @@
       "name": "Library type",
       "scope": "support.type",
       "settings": {
-        "foreground": "#6E9CBE"
+        "foreground": "#4dadc5"
       }
     },
     {
@@ -133,12 +133,20 @@
       "scope": ["entity.other.attribute-name"],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#ddaadd"
+        "foreground": "#e893c2"
       }
     },
     {
       "name": "Markup tag",
-      "scope": ["meta.tag", "declaration.tag", "entity.name.tag"],
+      "scope": ["meta.tag", "declaration.tag", "entity.name.tag.html"],
+      "settings": {
+        "fontStyle": "",
+        "foreground": "#ffffff"
+      }
+    },
+    {
+      "name": "Markup tag",
+      "scope": ["punctuation.definition.tag"],
       "settings": {
         "fontStyle": "",
         "foreground": "#E8BF6A"
