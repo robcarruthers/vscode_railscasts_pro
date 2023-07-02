@@ -5,6 +5,14 @@ All notable changes to the "railscasts-pro" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 - - -
+## [0.0.6](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.5..0.0.6) - 2023-07-02
+#### Miscellaneous Tasks
+- refinements - ([ba45716](https://github.com/robcarruthers/vscode_railscasts_pro/commit/ba45716c8612093c1f394582d694cc8ed17375e6)) - [@robcarruthers](https://github.com/robcarruthers)
+#### Refactoring
+- Add icon - ([4ce21e4](https://github.com/robcarruthers/vscode_railscasts_pro/commit/4ce21e4b6a14af588a749b33e84ce3ac1c35268c)) - [@robcarruthers](https://github.com/robcarruthers)
+
+- - -
+
 ## [0.0.5](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.4..0.0.5) - 2023-07-02
 
 - - -
