@@ -3,6 +3,21 @@
   "displayName": "railscasts_pro",
   "description": "A dark UI theme based on the original Textmate RailsCasts Theme.",
   "version": "0.0.3",
+  "publisher": "codeMuster",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robcarruthers/vscode_railscasts_pro"
+  },
+  "license": "MIT",
+  "keywords": [
+    "theme",
+    "dark",
+    "rails",
+    "ruby",
+    "railscasts",
+    "textmate",
+    "Ryan Bates"
+  ],
   "engines": {
     "vscode": "^1.79.0"
   },
