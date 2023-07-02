@@ -5,6 +5,10 @@ All notable changes to the "railscasts-pro" extension will be documented in this
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
 - - -
+## [0.0.5](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.4..0.0.5) - 2023-07-02
+
+- - -
+
 ## [0.0.4](https://github.com/robcarruthers/vscode_railscasts_pro/compare/0.0.1..0.0.4) - 2023-07-02
 
 - - -
